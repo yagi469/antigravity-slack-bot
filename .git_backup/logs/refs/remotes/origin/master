@@ -1,5 +1,0 @@
-3558b160714e53f003d3ed6152939f69bdbd9fc4 cde0d06a79e294c47ab8941adde4a015759f4725 harunami-trader <your_email@example.com> 1771083465 +0900	update by push
-cde0d06a79e294c47ab8941adde4a015759f4725 c931e19f23260d584c40d2d21cc0e31e73676bef harunami-trader <your_email@example.com> 1771084318 +0900	pull origin master: fast-forward
-c931e19f23260d584c40d2d21cc0e31e73676bef ca4d8efe5d815eadcb8bb8e2310ba8da4f3463ea harunami-trader <your_email@example.com> 1771084359 +0900	update by push
-ca4d8efe5d815eadcb8bb8e2310ba8da4f3463ea 7e08a65258f27e254ef9d52241aef6240696c179 harunami-trader <your_email@example.com> 1771171140 +0900	pull origin master --rebase: fast-forward
-7e08a65258f27e254ef9d52241aef6240696c179 fa84bb202cddfd3ae21a5a9f0e98bc923eb26419 harunami-trader <your_email@example.com> 1771171155 +0900	update by push
