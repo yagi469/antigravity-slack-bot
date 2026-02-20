@@ -14,3 +14,4 @@ restart_antigravity_debug.bat
 .DS_Store
 Thumbs.db
 tests/*.png
+dom_dump.json
